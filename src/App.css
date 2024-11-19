@@ -1,0 +1,8 @@
+.bg_cover{
+    border: 2px solid rgba(0, 0, 0, 0.417);
+background-image: url('./assets/winter.jpg');
+background-size: cover;
+}
+.profile{
+    content: url(./assets/profile.jpg);
+}
