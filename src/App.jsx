@@ -9,7 +9,7 @@ function App() {
 
       <img src="../src/assets/profile.jpeg" alt="" className='h-36 aspect-square object-cover rounded-full m-7 border-l-2 border-blue-400 border-r-2 ' />
       
-      <div className="max-w-sm w-full bg-[url('./src/assets/winter.jpg')] bg-cover rounded-xl shadow-2xl p-8">
+      <div className="max-w-sm w-full bg-[url(../src/assets/winter.jpg')] bg-cover rounded-xl shadow-2xl p-8">
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-2">Manish Kumar</h2>
           <p className="text-gray-700">Full Stack Developer</p>
