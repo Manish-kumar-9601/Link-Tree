@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="min-h-screen   flex items-center justify-center flex-col p-4 ">
 
-      <img src="../src/assets/profile.jpeg" alt="" className='h-36 aspect-square object-cover rounded-full m-7 border-l-2 border-blue-400 border-r-2 ' />
+      <img src="../src/assets/profile.jpg" alt="profile" className='h-36 aspect-square object-cover rounded-full m-7 border-l-2 border-blue-400 border-r-2 ' />
       
       <div className="max-w-sm w-full bg-[url(../src/assets/winter.jpg')] bg-cover rounded-xl shadow-2xl p-8">
         <div className="text-center mb-8">
