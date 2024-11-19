@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 body{
-    background: url('..\src\assets\winter-forest-2560x1440-13068.jpg');
+    background: url('../src/assets/winter.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }

@@ -5,10 +5,9 @@ import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 function App() {
   return (
-    <div className="min-h-screen  flex items-center justify-center flex-col p-4">
-     
+    <div className="min-h-screen   flex items-center justify-center flex-col p-4 ">
 
-      <img src="src\assets\profile.jpeg" alt="" className='h-36 aspect-square object-cover rounded-full m-7 border-l-2 border-blue-400 border-r-2 ' />
+      <img src="../src/assets/profile.jpeg" alt="" className='h-36 aspect-square object-cover rounded-full m-7 border-l-2 border-blue-400 border-r-2 ' />
       
       <div className="max-w-sm w-full bg-gradient-to-br from-gray-900 to-gray-700 rounded-xl shadow-2xl p-8">
         <div className="text-center mb-8">
@@ -41,7 +40,7 @@ function App() {
           <li>
             <a 
               href="www.linkedin.com/in/manish-kumar-593326273"
-              target="_blank"
+              
               rel="noopener noreferrer"
               className="flex items-center min-w-40 max-w-56 justify-center p-3 rounded-lg bg-blue-600 hover:bg-blue-700 transition-all duration-300 text-white"
             >
