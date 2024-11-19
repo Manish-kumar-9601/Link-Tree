@@ -19,7 +19,7 @@ function App() {
         <ul className="space-y-4 flex  flex-col   items-center">
           <li>
             <a 
-              href="mailto:your.email@example.com"
+              href="mailto:manishkumar.96017278@gmail.com"
               className="flex items-center min-w-40 max-w-56 justify-center p-3 rounded-lg bg-gray-100 hover:bg-gray-200 transition-all duration-300 text-gray-700 hover:text-gray-900"
             >
               <MdEmail className='mr-3 text-xl' />
@@ -30,7 +30,7 @@ function App() {
           
           <li>
             <a 
-              href="tel:+1234567890"
+              href="tel:+919601727836"
               className="flex items-center min-w-40 max-w-56 justify-center p-3 rounded-lg bg-gray-100 hover:bg-gray-200 transition-all duration-300 text-gray-700 hover:text-gray-900"
             >
               <FaPhoneAlt className="mr-3 text-xl" />
@@ -40,7 +40,7 @@ function App() {
           
           <li>
             <a 
-              href="https://www.linkedin.com/in/your-profile"
+              href="www.linkedin.com/in/manish-kumar-593326273"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center min-w-40 max-w-56 justify-center p-3 rounded-lg bg-blue-600 hover:bg-blue-700 transition-all duration-300 text-white"
@@ -52,7 +52,7 @@ function App() {
           
           <li>
             <a 
-              href="https://github.com/your-username"
+              href="https://github.com/Manish-kumar-9601"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center  min-w-40 max-w-56  justify-center p-3 rounded-lg bg-gray-800 hover:bg-gray-900 transition-all duration-300 text-white"
