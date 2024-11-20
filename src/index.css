@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 body{
-    background: url('../src/assets/winter.jpg');
+    background: url('../src/assets/1248197.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position:center ;
+ 
 }

@@ -1,7 +1,9 @@
 .bg_cover{
-    border: 2px solid rgba(0, 0, 0, 0.417);
-background-image: url('./assets/winter.jpg');
-background-size: cover;
+    border: 3px solid rgba(0, 0, 0, 0.417);
+ background-image: url('./assets/bg-white-black-boll.jpg');
+background-position: center;
+ background-size: cover;
+ 
 }
 .profile{
     content: url(./assets/profile.jpg);
